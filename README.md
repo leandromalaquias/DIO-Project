@@ -2,8 +2,7 @@
 Este repositorio do BootCamp sobre Banco de dados da Dio 
 #
 ###
-#  ORDEM DE SERVIÇO
-
+#  Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 ###Descrição do Desafio
 O esquema deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto conceitual para fornecer o contexto sobre seu esquema.
 
