@@ -1,5 +1,5 @@
 # Projeto-DIO
-Este repositorio do BootCamp sobre Banco de dados da Dio 
+BootCamp Database Experience da Dio (Digital Innovation One)
 #
 ###
 #  Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
